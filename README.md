@@ -5,3 +5,10 @@
 会从头开始细化，目前还不够 insight
 
 希望...有希望
+
+命令记不住()
+``` sh
+git add .
+git commit
+git push origin main
+```
